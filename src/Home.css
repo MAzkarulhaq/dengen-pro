@@ -1,0 +1,17 @@
+.homewrapper {
+  background: url(./Assets/ndbg.png);
+  background-size: cover;
+  background-color: #bedbe7;
+}
+.blue-text {
+  color: #07345d !important;
+}
+
+@media (max-width: 576px) {
+  .homewrapper {
+    background-position: bottom;
+  }
+  .navbar-nav {
+    align-items: flex-end;
+  }
+}

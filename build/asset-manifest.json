@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dc9e7822.chunk.css",
+    "main.js": "/static/js/main.7a81c9b7.chunk.js",
+    "main.js.map": "/static/js/main.7a81c9b7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8c42c631.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8c42c631.js.map",
+    "static/js/2.f12743ea.chunk.js": "/static/js/2.f12743ea.chunk.js",
+    "static/js/2.f12743ea.chunk.js.map": "/static/js/2.f12743ea.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.dc9e7822.chunk.css.map": "/static/css/main.dc9e7822.chunk.css.map",
+    "static/js/2.f12743ea.chunk.js.LICENSE.txt": "/static/js/2.f12743ea.chunk.js.LICENSE.txt",
+    "static/media/ELF.1696ab36.gif": "/static/media/ELF.1696ab36.gif",
+    "static/media/REINDEER.56a06424.gif": "/static/media/REINDEER.56a06424.gif",
+    "static/media/SANTA.3b41b6e0.gif": "/static/media/SANTA.3b41b6e0.gif",
+    "static/media/gifbg.26185c7d.png": "/static/media/gifbg.26185c7d.png",
+    "static/media/Home.css": "/static/media/ndbg.12657758.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c42c631.js",
+    "static/js/2.f12743ea.chunk.js",
+    "static/css/main.dc9e7822.chunk.css",
+    "static/js/main.7a81c9b7.chunk.js"
+  ]
+}

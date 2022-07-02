@@ -1,0 +1,87 @@
+/*! CSS Used from: https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css */
+*,
+::after,
+::before {
+  box-sizing: border-box;
+}
+table {
+  border-collapse: collapse;
+}
+.table {
+  width: 100%;
+  margin-bottom: 1rem;
+  color: #212529;
+}
+.table td {
+  padding: 0.75rem;
+  vertical-align: top;
+}
+.collapse:not(.show) {
+  display: none;
+}
+.mt-5 {
+  margin-top: 3rem !important;
+}
+.faq-section .accordion-item__button.active,
+.faq-section .accordion-item__button:hover,
+.faq-section .accordion-item__button:focus,
+.faq-section .accordion-item__button:active {
+  border: 2px solid #07345d;
+}
+@media print {
+  *,
+  ::after,
+  ::before {
+    text-shadow: none !important;
+    box-shadow: none !important;
+  }
+  tr {
+    page-break-inside: avoid;
+  }
+  .table {
+    border-collapse: collapse !important;
+  }
+  .table td {
+    background-color: #fff !important;
+  }
+}
+/*! CSS Used from: https://influencerz.io/static/css/main.78d7b89a.chunk.css */
+* {
+  margin: 0;
+  padding: 0;
+}
+.table td {
+  padding: 10px 20px;
+  border: none;
+}
+.table tr {
+  padding: 10px;
+}
+table {
+  max-width: 80%;
+  color: #07345d !important;
+  margin: 0 auto;
+}
+.green {
+  border: 2px solid #07345d !important;
+}
+
+table td.center {
+  text-align: center;
+  vertical-align: middle;
+  border-right: 3px solid #07345d !important;
+  width: 80px;
+}
+.acco .collapse .show td {
+  border: 2px solid #07345d !important;
+}
+@media (max-width: 768px) {
+  .table {
+    max-width: 100%;
+  }
+}
+@media (max-width: 576px) {
+  table {
+    max-width: 100%;
+  }
+}
